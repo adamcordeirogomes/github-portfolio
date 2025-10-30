@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+develop-eggs/
+.installed.cfg
+*.log
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- VS Code ---
+.vscode/
+.history/
+
+# --- Data / Results (optional if you have large files) ---
+data/raw/
+data/interim/
+data/processed/
+results/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
